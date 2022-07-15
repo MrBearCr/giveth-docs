@@ -9,7 +9,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl'
 import styles from '../../../../src/css/custom.css'
 
 
-**_We are pleased to announce the official full release of_** [**_Giveth TRACE_**](http://trace.giveth.io/?utm_source=medium&utm_medium=article&utm_campaign=traceLaunch) **_— a platform for traceable, accountable, effective donations powered by blockchain technology._**
+**_Nos complace anunciar el lanzamiento oficial completo de_** [**_Giveth TRACE_**](http://trace.giveth.io/?utm_source=medium&utm_medium=article&utm_campaign=traceLaunch) **_— una plataforma para rastreo , donaciones responsables y efectivas impulsadas por la tecnología blockchain._**
 
 
 <img alt="Giveth TRACE homepage"  src={useBaseUrl('/img/blog/traceLaunchCover.png')}  />
